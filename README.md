@@ -10,7 +10,7 @@
 Delhi Technological University (DTU), Class of 2026  
 Currently working on: Vision-Language Models, Signal Processing, and Biomedical AI  
 Passionate about Generative AI, Transformers, and Real-world Applications  
-Interested in NeuroAI, Meme Understanding, Image Enhancement, and Chatbots  
+Interested in NeuroAI, Image Enhancement, and Chatbots  
 🌐 [Kaggle Models](https://www.kaggle.com/models/suyashkb) | 📫 [LinkedIn](https://linkedin.com/in/suyash-kumar-bhagat)  
 
 <!---
