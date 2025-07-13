@@ -29,7 +29,7 @@ Interested in NeuroAI, Meme Understanding, Image Enhancement, and Chatbots
 ### 🧬 IIT Guwahati — *Generative AI Intern* (Dec 2023 – Jan 2024)
 - Built a **DCGAN** to generate near-infrared facial images from limited dataset (1,000 samples)  
 - Implemented **Transfer Learning, Hyperparameter Tuning, and Augmentation**
--->
+
 ---
 
 ## Projects
@@ -75,7 +75,7 @@ Interested in NeuroAI, Meme Understanding, Image Enhancement, and Chatbots
 - **Smart India Hackathon DTU 2024**: Top 6% among 300+ teams  
 
 ---
-
+-->
 ## Skills & Tools
 
 **Languages:** Python, Kotlin, XML, SQL  
