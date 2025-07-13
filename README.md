@@ -98,6 +98,7 @@ Interested in NeuroAI, Meme Understanding, Image Enhancement, and Chatbots
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/suyashkb)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/suyashkb)
 
----
+<!---
 
 ⭐️ *Feel free to check out my repositories or reach out for collaboration opportunities!*
+--->
