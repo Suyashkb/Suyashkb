@@ -87,7 +87,7 @@ Interested in NeuroAI, Image Enhancement, and Chatbots
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suyashkb&show_icons=true&theme=react" width="45%" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyashkb&layout=compact&theme=react" width="34%" />
 </p>
 
