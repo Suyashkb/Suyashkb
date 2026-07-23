@@ -34,7 +34,7 @@ Python · PyTorch · TensorFlow · Hugging Face Transformers · OpenCV · scikit
 NumPy/Pandas · LaTeX · MATLAB
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -43,7 +43,7 @@ NumPy/Pandas · LaTeX · MATLAB
 </p>
 
 ---
-
+--!>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/suyash-kumar-bhagat)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/suyashkumarbhagat)
