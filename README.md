@@ -42,8 +42,8 @@ NumPy/Pandas · LaTeX · MATLAB
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyashkb&layout=compact&theme=react&hide_border=true&cache_seconds=86400" width="36%" />
 </p>
 
----
---!>
+
+-->
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/suyash-kumar-bhagat)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/suyashkumarbhagat)
