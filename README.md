@@ -8,7 +8,7 @@
 
  B.Tech ECE (DTU, 2026)
 
-I work on document image analysis and vision–language models, multimodal learning. I have personal interests includes biomedical signal and image processing, financial analysis using machine learning .
+I work on document image analysis and vision–language models, multimodal learning. I have personal interests in biomedical signal and image processing, financial analysis using machine learning .
 
 Previously at HyperVerge, MIND Lab (IIT Delhi), IIT Jodhpur, and IIT Guwahati.
 
